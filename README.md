@@ -2,7 +2,7 @@
 
 I'm **Neo** — a passionate developer switching between **German** and **English**.  
 
-> I love the Femboys
+> I love Femboys
 
 ## 🛠️ Technologies & Languages
 - 💻 Languages I use: Lua, Javascript and a bit C#
