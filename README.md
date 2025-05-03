@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**NH-Neo-PS/NH-Neo-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Neo** — a passionate developer switching between **German** and **English**.  
 
-Here are some ideas to get you started:
+> I love the Femboys
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Languages
+- 💻 Languages I use: Lua, Javascript and a bit C#
+- 🎮 Focus: Hosting, Lightning
+
+## 📊 My Stats
+
+![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Neo-PS&layout=compact&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide=html,css,python,c,c++,shaderlab,hlsl,java)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NH-Neo-PS&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide=issues)
+
+## 🔥 My Projects
+- 🚀 [Lightning](https://lightningcentral.de)
+
+---
+
+### 📫 Contact & Links
+- Discord: `nh_nightfoxy_np`
