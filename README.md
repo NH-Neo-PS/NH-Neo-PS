@@ -2,9 +2,7 @@
 
 I'm **Neo** — a passionate developer switching between **German** and **English**.  
 
-> I love Femboys
-> 
-> Femboy/Furry porn watcher
+> I love Foxes
 
 ## 🛠️ Technologies & Languages
 - 💻 Languages I use: Lua, Javascript and a bit C#
@@ -17,7 +15,6 @@ I'm **Neo** — a passionate developer switching between **German** and **Englis
 
 ## 🔥 My Projects
 - 🚀 [Lightning](https://lightningcentral.de)
-- 🔞 [FurFantasy](#) (isn't done yet)
   
 
 ---
