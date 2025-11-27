@@ -10,8 +10,8 @@ I'm **Neo** a passionate developer switching between **German** and **English**.
 
 ## 📊 My Stats
 
-![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Neo-PS&layout=compact&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide=html,css,python,c,c++,shaderlab,hlsl,java)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NH-Neo-PS&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide=issues)
+![NH-Neo-PS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Neo-PS&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![NH-Neo-PS's Stats](https://github-readme-stats.vercel.app/api?username=NH-Neo-PS&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ## 🔥 My Projects
 - 🚀 [Lightning](https://lightningcentral.de)
