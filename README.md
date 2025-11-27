@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile!
 
-I'm **Neo** — a passionate developer switching between **German** and **English**.  
+I'm **Neo** a passionate developer switching between **German** and **English**.  
 
 > I love Foxes
 
